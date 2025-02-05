@@ -2,7 +2,7 @@
 A portfolio for showcasing my progress and achievements in cybersecurity
 # About Me
 **Name:** 
-Keith Jared Robinson<br/>
+Keith Jared Robinson<br/><br/>
 **Hometown:** 
 Lithonia, GA United States<br/>
 **Prior IT Experience:**
